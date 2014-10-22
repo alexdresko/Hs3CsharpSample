@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+HomeSeerAPI.dll
+Scheduler.dll
+HSCF.dll
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
