@@ -9,7 +9,7 @@ using HomeSeerAPI;
 using Microsoft.VisualBasic;
 using Scheduler.Classes;
 
-namespace ConsoleApplication1
+namespace Hs3CsharpSample
 {
 	internal static class Util
 	{

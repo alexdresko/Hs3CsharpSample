@@ -7,8 +7,8 @@
     <ProjectGuid>{FF7A67D9-DFDA-41E5-A0BB-A16639B15D06}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>Hs3CsharpSample</RootNamespace>
+    <AssemblyName>Hs3CsharpSample</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

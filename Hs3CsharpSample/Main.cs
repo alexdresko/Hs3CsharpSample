@@ -5,7 +5,7 @@ using HSCF.Communication.Scs.Communication;
 using HSCF.Communication.Scs.Communication.EndPoints.Tcp;
 using HSCF.Communication.ScsServices.Client;
 
-namespace ConsoleApplication1
+namespace Hs3CsharpSample
 {
 	internal static class Program
 	{

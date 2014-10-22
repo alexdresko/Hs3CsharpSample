@@ -4,7 +4,7 @@ using System.Text;
 using System.Web;
 using Scheduler;
 
-namespace ConsoleApplication1
+namespace Hs3CsharpSample
 {
 	public class WebPageAddDevice : PageBuilderAndMenu.clsPageBuilder
 	{

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.VisualBasic;
 
-namespace ConsoleApplication1
+namespace Hs3CsharpSample
 {
 	internal static class Web_UI_Util
 	{
