@@ -12,7 +12,7 @@ using Microsoft.VisualBasic;
 using Scheduler;
 using Scheduler.Classes;
 
-namespace Hs3CsharpSample
+namespace HSPI_HS3CSHARPSAMPLE
 {
 	public class HSPI : IPlugInAPI
 	{

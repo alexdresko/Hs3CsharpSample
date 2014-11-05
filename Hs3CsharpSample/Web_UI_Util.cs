@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.VisualBasic;
 
-namespace Hs3CsharpSample
+namespace HSPI_HS3CSHARPSAMPLE
 {
 	internal static class Web_UI_Util
 	{

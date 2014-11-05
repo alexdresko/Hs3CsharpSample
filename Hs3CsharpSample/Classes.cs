@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hs3CsharpSample
+namespace HSPI_HS3CSHARPSAMPLE
 {
 	internal static class Classes
 	{

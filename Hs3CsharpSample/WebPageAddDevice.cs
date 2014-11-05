@@ -4,7 +4,7 @@ using System.Text;
 using System.Web;
 using Scheduler;
 
-namespace Hs3CsharpSample
+namespace HSPI_HS3CSHARPSAMPLE
 {
 	public class WebPageAddDevice : PageBuilderAndMenu.clsPageBuilder
 	{

@@ -5,7 +5,7 @@ using System.Web;
 using Microsoft.VisualBasic;
 using Scheduler;
 
-namespace Hs3CsharpSample
+namespace HSPI_HS3CSHARPSAMPLE
 {
 	public class WebPage : PageBuilderAndMenu.clsPageBuilder
 	{
